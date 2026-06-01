@@ -1,0 +1,23 @@
+DAY 8 - TASK 18: ANNOTATION IN LABELME
+
+This folder contains the annotation work for our parking dataset.
+
+What we annotated:
+- Parking slot images
+- LabelMe JSON annotation files
+- Corresponding labeled images
+
+Where the sample files are:
+- `DAILY_TASKS/day_08/sample`
+
+Annotation workflow:
+1. Open the parking image in LabelMe.
+2. Draw a box or polygon around each parking slot.
+3. Mark the slot as `empty` or `occupied`.
+4. Save the annotation as a `.json` file.
+5. Export or keep the labeled image for reference.
+
+Reference drive link:
+https://drive.google.com/drive/folders/1r1lhsIksonpWG_UXfH5fqT_uvp0FoesX?usp=sharing
+
+Use this link as the main storage location for the annotation files and related day 08 work.
