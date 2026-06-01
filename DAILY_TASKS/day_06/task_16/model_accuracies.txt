@@ -1,0 +1,12 @@
+AI-Based Parking — Model Results Summary
+
+Model | Result / Accuracy
+----- | ------------------
+Decision Tree | 0.8362
+KMeans | Cluster 0: 12366, Cluster 1: 10811, Cluster 2: 6823
+Logistic Regression | 0.8208
+Naive Bayes | 0.6487
+SVM (SVC) | 0.7963, RBF: 0.7963, Linear: 0.8128, Gamma: 0.7963
+Random Forest | 0.8788
+Linear Regression | 0.0295
+Multiple Linear Regression | 0.9057
