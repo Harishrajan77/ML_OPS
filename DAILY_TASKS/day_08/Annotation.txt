@@ -7,9 +7,6 @@ What we annotated:
 - LabelMe JSON annotation files
 - Corresponding labeled images
 
-Where the sample files are:
-- `DAILY_TASKS/day_08/sample`
-
 Annotation workflow:
 1. Open the parking image in LabelMe.
 2. Draw a box or polygon around each parking slot.
@@ -20,4 +17,4 @@ Annotation workflow:
 Reference drive link:
 https://drive.google.com/drive/folders/1r1lhsIksonpWG_UXfH5fqT_uvp0FoesX?usp=sharing
 
-Use this link as the main storage location for the annotation files and related day 08 work.
+Use this link as the main storage location for the annotation files.

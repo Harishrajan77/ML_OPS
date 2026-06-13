@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  parking-api:
+    build: .
+    image: harish0107/parking-model:1.0
+    container_name: parking-detection
+    ports:
+      - "5000:5000"
+    restart: unless-stopped
+    environment:
+      - PYTHONUNBUFFERED=1
